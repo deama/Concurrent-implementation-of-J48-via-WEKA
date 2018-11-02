@@ -6,6 +6,7 @@ Not all of the files have been included as github limits the size, this only has
 https://www.lysaks.com/deama/Files/trees/index.html
 
 General Information:
+
 -Only J48 has been tested, the other algorithms may not work, especially the ones from the decision tree family.
 
 -You can run them via the terminal if you want, however you cannot modify the poolsize through an argument, that feature has not been added yet.
